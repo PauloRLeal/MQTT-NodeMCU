@@ -3,8 +3,8 @@
 
 #define ledsala 16
 
-const char* ssid = "Francisco";
-const char* senha = "francisco20181tim0042";
+const char* ssid = "<your-ssid-wifi>";
+const char* senha = "<your-password-wifi>";
 
 WiFiServer server(80);
 
